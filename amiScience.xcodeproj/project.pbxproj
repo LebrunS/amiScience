@@ -12,6 +12,24 @@
 		4BC8C4AB1F94FB6500B4EB38 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4A91F94FB6500B4EB38 /* Main.storyboard */; };
 		4BC8C4AD1F94FB6500B4EB38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4AC1F94FB6500B4EB38 /* Assets.xcassets */; };
 		4BC8C4B01F94FB6500B4EB38 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4AE1F94FB6500B4EB38 /* LaunchScreen.storyboard */; };
+		4BC8C4E31F94FBF900B4EB38 /* Albert Einstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4D31F94FBF500B4EB38 /* Albert Einstein.jpg */; };
+		4BC8C4E41F94FBF900B4EB38 /* Albert Jacquard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4D81F94FBF500B4EB38 /* Albert Jacquard.jpg */; };
+		4BC8C4E51F94FBF900B4EB38 /* amisDelaScience.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4DF1F94FBF600B4EB38 /* amisDelaScience.plist */; };
+		4BC8C4E61F94FBF900B4EB38 /* Blaise Pascal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4DD1F94FBF500B4EB38 /* Blaise Pascal.jpg */; };
+		4BC8C4E71F94FBF900B4EB38 /* Braun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4DA1F94FBF500B4EB38 /* Braun.jpg */; };
+		4BC8C4E81F94FBF900B4EB38 /* Christian Huygens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4D41F94FBF500B4EB38 /* Christian Huygens.jpg */; };
+		4BC8C4E91F94FBF900B4EB38 /* Daniel Fahrenheit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4E11F94FBF600B4EB38 /* Daniel Fahrenheit.jpg */; };
+		4BC8C4EA1F94FBF900B4EB38 /* Dennis Ritchie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4D21F94FBF500B4EB38 /* Dennis Ritchie.jpg */; };
+		4BC8C4EB1F94FBF900B4EB38 /* Galilée.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4E01F94FBF600B4EB38 /* Galilée.jpg */; };
+		4BC8C4EC1F94FBF900B4EB38 /* Henri Becquerel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4D91F94FBF500B4EB38 /* Henri Becquerel.jpg */; };
+		4BC8C4ED1F94FBF900B4EB38 /* Hertz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4D61F94FBF500B4EB38 /* Hertz.jpg */; };
+		4BC8C4EE1F94FBF900B4EB38 /* Jean Perrin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4DE1F94FBF600B4EB38 /* Jean Perrin.jpg */; };
+		4BC8C4EF1F94FBF900B4EB38 /* Karl Guthe Jansky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4DB1F94FBF500B4EB38 /* Karl Guthe Jansky.jpg */; };
+		4BC8C4F01F94FBF900B4EB38 /* Marie Curie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4E21F94FBF600B4EB38 /* Marie Curie.jpg */; };
+		4BC8C4F11F94FBF900B4EB38 /* maxwell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4D71F94FBF500B4EB38 /* maxwell.jpg */; };
+		4BC8C4F21F94FBF900B4EB38 /* Steve Jobs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4DC1F94FBF500B4EB38 /* Steve Jobs.jpg */; };
+		4BC8C4F31F94FBF900B4EB38 /* Wilhelm Conrad Rontgen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BC8C4D51F94FBF500B4EB38 /* Wilhelm Conrad Rontgen.jpg */; };
+		4BC8C4F61F95070700B4EB38 /* Savant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC8C4F51F95070700B4EB38 /* Savant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +40,24 @@
 		4BC8C4AC1F94FB6500B4EB38 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4BC8C4AF1F94FB6500B4EB38 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4BC8C4B11F94FB6500B4EB38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BC8C4D21F94FBF500B4EB38 /* Dennis Ritchie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dennis Ritchie.jpg"; sourceTree = "<group>"; };
+		4BC8C4D31F94FBF500B4EB38 /* Albert Einstein.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Albert Einstein.jpg"; sourceTree = "<group>"; };
+		4BC8C4D41F94FBF500B4EB38 /* Christian Huygens.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Christian Huygens.jpg"; sourceTree = "<group>"; };
+		4BC8C4D51F94FBF500B4EB38 /* Wilhelm Conrad Rontgen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wilhelm Conrad Rontgen.jpg"; sourceTree = "<group>"; };
+		4BC8C4D61F94FBF500B4EB38 /* Hertz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hertz.jpg; sourceTree = "<group>"; };
+		4BC8C4D71F94FBF500B4EB38 /* maxwell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maxwell.jpg; sourceTree = "<group>"; };
+		4BC8C4D81F94FBF500B4EB38 /* Albert Jacquard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Albert Jacquard.jpg"; sourceTree = "<group>"; };
+		4BC8C4D91F94FBF500B4EB38 /* Henri Becquerel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Henri Becquerel.jpg"; sourceTree = "<group>"; };
+		4BC8C4DA1F94FBF500B4EB38 /* Braun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Braun.jpg; sourceTree = "<group>"; };
+		4BC8C4DB1F94FBF500B4EB38 /* Karl Guthe Jansky.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Karl Guthe Jansky.jpg"; sourceTree = "<group>"; };
+		4BC8C4DC1F94FBF500B4EB38 /* Steve Jobs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Steve Jobs.jpg"; sourceTree = "<group>"; };
+		4BC8C4DD1F94FBF500B4EB38 /* Blaise Pascal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Blaise Pascal.jpg"; sourceTree = "<group>"; };
+		4BC8C4DE1F94FBF600B4EB38 /* Jean Perrin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Jean Perrin.jpg"; sourceTree = "<group>"; };
+		4BC8C4DF1F94FBF600B4EB38 /* amisDelaScience.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = amisDelaScience.plist; sourceTree = "<group>"; };
+		4BC8C4E01F94FBF600B4EB38 /* Galilée.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Galilée.jpg"; sourceTree = "<group>"; };
+		4BC8C4E11F94FBF600B4EB38 /* Daniel Fahrenheit.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Daniel Fahrenheit.jpg"; sourceTree = "<group>"; };
+		4BC8C4E21F94FBF600B4EB38 /* Marie Curie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Marie Curie.jpg"; sourceTree = "<group>"; };
+		4BC8C4F51F95070700B4EB38 /* Savant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Savant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +90,7 @@
 		4BC8C4A41F94FB6500B4EB38 /* amiScience */ = {
 			isa = PBXGroup;
 			children = (
+				4BC8C4B71F94FB6D00B4EB38 /* Ressources */,
 				4BC8C4A51F94FB6500B4EB38 /* AppDelegate.swift */,
 				4BC8C4A71F94FB6500B4EB38 /* ViewController.swift */,
 				4BC8C4A91F94FB6500B4EB38 /* Main.storyboard */,
@@ -62,6 +99,39 @@
 				4BC8C4B11F94FB6500B4EB38 /* Info.plist */,
 			);
 			path = amiScience;
+			sourceTree = "<group>";
+		};
+		4BC8C4B71F94FB6D00B4EB38 /* Ressources */ = {
+			isa = PBXGroup;
+			children = (
+				4BC8C4F41F9506C200B4EB38 /* Classe */,
+				4BC8C4D31F94FBF500B4EB38 /* Albert Einstein.jpg */,
+				4BC8C4D81F94FBF500B4EB38 /* Albert Jacquard.jpg */,
+				4BC8C4DF1F94FBF600B4EB38 /* amisDelaScience.plist */,
+				4BC8C4DD1F94FBF500B4EB38 /* Blaise Pascal.jpg */,
+				4BC8C4DA1F94FBF500B4EB38 /* Braun.jpg */,
+				4BC8C4D41F94FBF500B4EB38 /* Christian Huygens.jpg */,
+				4BC8C4E11F94FBF600B4EB38 /* Daniel Fahrenheit.jpg */,
+				4BC8C4D21F94FBF500B4EB38 /* Dennis Ritchie.jpg */,
+				4BC8C4E01F94FBF600B4EB38 /* Galilée.jpg */,
+				4BC8C4D91F94FBF500B4EB38 /* Henri Becquerel.jpg */,
+				4BC8C4D61F94FBF500B4EB38 /* Hertz.jpg */,
+				4BC8C4DE1F94FBF600B4EB38 /* Jean Perrin.jpg */,
+				4BC8C4DB1F94FBF500B4EB38 /* Karl Guthe Jansky.jpg */,
+				4BC8C4E21F94FBF600B4EB38 /* Marie Curie.jpg */,
+				4BC8C4D71F94FBF500B4EB38 /* maxwell.jpg */,
+				4BC8C4DC1F94FBF500B4EB38 /* Steve Jobs.jpg */,
+				4BC8C4D51F94FBF500B4EB38 /* Wilhelm Conrad Rontgen.jpg */,
+			);
+			path = Ressources;
+			sourceTree = "<group>";
+		};
+		4BC8C4F41F9506C200B4EB38 /* Classe */ = {
+			isa = PBXGroup;
+			children = (
+				4BC8C4F51F95070700B4EB38 /* Savant.swift */,
+			);
+			path = Classe;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +193,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4BC8C4F01F94FBF900B4EB38 /* Marie Curie.jpg in Resources */,
+				4BC8C4F21F94FBF900B4EB38 /* Steve Jobs.jpg in Resources */,
+				4BC8C4E71F94FBF900B4EB38 /* Braun.jpg in Resources */,
+				4BC8C4ED1F94FBF900B4EB38 /* Hertz.jpg in Resources */,
 				4BC8C4B01F94FB6500B4EB38 /* LaunchScreen.storyboard in Resources */,
+				4BC8C4E81F94FBF900B4EB38 /* Christian Huygens.jpg in Resources */,
+				4BC8C4EA1F94FBF900B4EB38 /* Dennis Ritchie.jpg in Resources */,
+				4BC8C4E41F94FBF900B4EB38 /* Albert Jacquard.jpg in Resources */,
 				4BC8C4AD1F94FB6500B4EB38 /* Assets.xcassets in Resources */,
+				4BC8C4E91F94FBF900B4EB38 /* Daniel Fahrenheit.jpg in Resources */,
+				4BC8C4E51F94FBF900B4EB38 /* amisDelaScience.plist in Resources */,
+				4BC8C4F31F94FBF900B4EB38 /* Wilhelm Conrad Rontgen.jpg in Resources */,
+				4BC8C4EC1F94FBF900B4EB38 /* Henri Becquerel.jpg in Resources */,
 				4BC8C4AB1F94FB6500B4EB38 /* Main.storyboard in Resources */,
+				4BC8C4EF1F94FBF900B4EB38 /* Karl Guthe Jansky.jpg in Resources */,
+				4BC8C4E61F94FBF900B4EB38 /* Blaise Pascal.jpg in Resources */,
+				4BC8C4F11F94FBF900B4EB38 /* maxwell.jpg in Resources */,
+				4BC8C4EE1F94FBF900B4EB38 /* Jean Perrin.jpg in Resources */,
+				4BC8C4E31F94FBF900B4EB38 /* Albert Einstein.jpg in Resources */,
+				4BC8C4EB1F94FBF900B4EB38 /* Galilée.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +225,7 @@
 			files = (
 				4BC8C4A81F94FB6500B4EB38 /* ViewController.swift in Sources */,
 				4BC8C4A61F94FB6500B4EB38 /* AppDelegate.swift in Sources */,
+				4BC8C4F61F95070700B4EB38 /* Savant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
